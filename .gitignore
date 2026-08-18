@@ -1,0 +1,29 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large/raw local data that should not be committed
+data_raw/
+raw_data/
+
+# Local environment files
+.env
+.env.*

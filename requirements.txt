@@ -1,0 +1,6 @@
+chmatplotlib==3.11.1
+numpy==2.5.2
+pandas==3.0.5
+pydeseq2==0.5.4
+scipy==1.18.0
+statsmodels==0.14.6

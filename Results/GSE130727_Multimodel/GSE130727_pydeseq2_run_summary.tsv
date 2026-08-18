@@ -1,0 +1,9 @@
+Comparison	Control_n	Senescent_n	Genes_before_filtering	Genes_tested	Full_results_file
+HAEC_IR	2	3	57773	33730	HAEC_IR_DESeq2_all_genes.tsv.gz
+HUVEC_IR	3	3	57773	34755	HUVEC_IR_DESeq2_all_genes.tsv.gz
+IMR90_IR	2	2	57773	34410	IMR90_IR_DESeq2_all_genes.tsv.gz
+IMR90_Replicative	2	2	57773	33965	IMR90_Replicative_DESeq2_all_genes.tsv.gz
+WI38_Doxorubicin	4	4	57773	39454	WI38_Doxorubicin_DESeq2_all_genes.tsv.gz
+WI38_HRAS	2	2	57773	33257	WI38_HRAS_DESeq2_all_genes.tsv.gz
+WI38_IR	2	2	57773	37383	WI38_IR_DESeq2_all_genes.tsv.gz
+WI38_Replicative	2	2	57773	34054	WI38_Replicative_DESeq2_all_genes.tsv.gz

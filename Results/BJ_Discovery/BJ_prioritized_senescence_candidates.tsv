@@ -1,0 +1,6 @@
+Gene	Pathway_count	Pathways	log2FoldChange	padj	baseMean	Description	abs_log2FoldChange
+FOS	4	Cellular Senescence | Cytokine Signaling in Immune system | Oxidative Stress Induced Senescence | Senescence-Associated Secretory Phenotype (SASP)	-1.4042959	6.89e-09	1543.85	Fos proto-oncogene, AP-1 transcription factor subunit	1.4042959
+IL1A	3	Cellular Senescence | Cytokine Signaling in Immune system | Senescence-Associated Secretory Phenotype (SASP)	-4.2316193	7.59e-39	85.24	interleukin 1 alpha	4.2316193
+CXCL8	3	Cellular Senescence | Cytokine Signaling in Immune system | Senescence-Associated Secretory Phenotype (SASP)	-1.2618335	9.74e-14	134.75	C-X-C motif chemokine ligand 8	1.2618335
+CDKN2B	3	Cellular Senescence | Oxidative Stress Induced Senescence | Senescence-Associated Secretory Phenotype (SASP)	-1.0308242	8.04e-19	271.48	cyclin dependent kinase inhibitor 2B	1.0308242
+ICAM1	2	Cytokine Signaling in Immune system | Extracellular matrix organization	-1.3336943	7.74e-107	3583.53	intercellular adhesion molecule 1	1.3336943
